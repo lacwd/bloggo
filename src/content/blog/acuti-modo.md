@@ -9,7 +9,7 @@ tags:
   - post
   - featured
   - testing
-image: /assets/images/blog/landing.jpg
+image: /assets/images/blog/screenshot-2025-09-04-132926.png
 imageAlt: Kitchen
 ---
 ## Lacerans aliter tetigit praeterea rite
